@@ -8,8 +8,8 @@ SFOE Challenge for the Energy Data Hackdays 2026 Lausanne.
 ![Slide 2](ChallengeDesign_BFE_LAU26/Folie4.PNG)
 
 ### Additional Data Sources:
-- PV Production csv:     bfe-ogd/temp/backcast_data_export.csv
-- PV Production parquet: bfe-ogd/temp/backcast_data_export.pq
+- PV Production csv:     www.bfe-ogd.ch/backcast_data_export.csv
+- PV Production parquet: www.bfe-ogdch/backcast_data_export.pq
 - [ENTSOE](https://transparency.entsoe.eu/) & https://github.com/EnergieID/entsoe-py
 
 ### Compute & storage on Renku:
