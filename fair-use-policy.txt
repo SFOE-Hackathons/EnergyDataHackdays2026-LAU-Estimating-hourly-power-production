@@ -1,0 +1,72 @@
+# Fair Use Policy
+
+To maximize innovation and creativity, we believe you should have the flexibility to use our services as you see fit, so long as you comply with the law and don’t harm yourself or others. When using any Swisscom service (for example, the Swiss AI Platform), these rules apply:
+
+---
+
+## 1. Comply with applicable laws — do not:
+- Compromise the privacy of others.
+- Engage in regulated activity without complying with applicable regulations.
+- Promote or engage in any illegal activity, including:
+  - Exploitation or harm of children.
+  - Development or distribution of illegal substances, goods, or services.
+- Use subliminal, manipulative, or deceptive techniques that distort a person’s behavior so they cannot make informed decisions in a way that is likely to cause harm.
+- Exploit vulnerabilities related to age, disability, or socio‑economic circumstances.
+- Create or expand facial recognition databases without consent.
+- Conduct real‑time remote biometric identification in public spaces for law enforcement purposes.
+- Evaluate or classify individuals based on their social behavior or personal traits (including social scoring or predictive profiling) leading to detrimental or unfavorable treatment.
+- Assess or predict the risk of an individual committing a criminal offense based solely on their personal traits or profiling.
+- Infer an individual’s emotions in the workplace and educational settings, except when necessary for medical or safety reasons.
+- Categorize individuals based on their biometric data to deduce or infer sensitive attributes such as race, political opinions, religious beliefs, or sexual orientation.
+
+---
+
+## 2. Don’t use our service to harm yourself or others — for example, don’t:
+- Promote suicide or self‑harm.
+- Develop or use weapons.
+- Injure others or destroy property.
+- Engage in unauthorized activities that violate the security of any service or system.
+
+---
+
+## 3. Don’t repurpose or distribute output from our services to harm others — for example, don’t:
+- Share output to defraud, scam, or spam.
+- Mislead, bully, harass, defame, or discriminate based on protected attributes.
+- Sexualize children.
+- Promote violence, hatred, or the suffering of others.
+
+---
+
+## 4. Don’t compromise the privacy of others — for example, do not:
+- Collect, process, disclose, infer, or generate personal data without complying with applicable legal requirements.
+- Use biometric systems for identification or assessment, including facial recognition.
+- Facilitate spyware, communications surveillance, or unauthorized monitoring of individuals.
+
+---
+
+## 5. Don’t perform or facilitate activities that may significantly impair the safety, wellbeing, or rights of others — for example, do not:
+- Provide tailored legal, medical/health, or financial advice without review by a qualified professional and disclosure of the use of AI assistance and its potential limitations.
+- Make high‑stakes automated decisions in domains that affect an individual’s safety, rights, or well‑being (e.g., law enforcement, migration, management of critical infrastructure, safety components of products, essential services, credit, employment, housing, education, social scoring, or insurance).
+- Facilitate real‑money gambling or payday lending.
+- Engage in political campaigning or lobbying, including generating campaign materials personalized to or targeted at specific demographics.
+- Deter people from participation in democratic processes, including misrepresenting voting processes or qualifications and discouraging voting.
+
+---
+
+## 6. Don’t misuse our platform to cause harm by intentionally deceiving or misleading others — for example, do not:
+- Generate or promote disinformation, misinformation, or false online engagement (e.g., comments, reviews).
+- Impersonate another individual or organization without consent or legal right.
+- Engage in or promote academic dishonesty.
+- Fail to ensure that automated systems (e.g., chatbots) disclose to people that they are interacting with AI, unless it’s obvious from the context.
+
+---
+
+## 7. Don’t build tools that may be inappropriate for minors, including:
+- Sexually explicit or suggestive content. (This does not include content created for scientific or educational purposes.)
+
+---
+
+## Enforcement and remedies
+- We reserve the right to take corrective action if a user violates this policy or otherwise abuses the service. Corrective measures may include, without limitation, throttling, temporarily suspending access, limiting capabilities, or permanently terminating accounts and revoking API keys.
+- Corrective action may also be taken in response to excessive, abnormal, or abusive consumption of resources that jeopardizes service availability or violates fair‑use expectations.
+- Where appropriate, actions may be taken with or without prior notice and in accordance with applicable law and contractual terms.
