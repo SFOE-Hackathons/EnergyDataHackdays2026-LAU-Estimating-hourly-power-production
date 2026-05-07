@@ -14,3 +14,6 @@ SFOE Challenge for the Energy Data Hackdays 2026 Lausanne.
 
 ### Compute & storage on Renku:
 - https://renkulab.io/p/lucs/energy-data-hackdays-lausanne-2026
+
+### Methods:
+https://github.com/jaimevera1107/tempdisagg
