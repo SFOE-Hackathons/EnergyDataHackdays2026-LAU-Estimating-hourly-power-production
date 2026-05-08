@@ -32,7 +32,7 @@ Distributes daily totals to hourly values proportionally using a known hourly pr
 
 
 
-### High level conclusions for teh CHALLENGE:
+### High level conclusions for the CHALLENGE:
 - Combining complementary datasets allowed us to extract information unavailable from any single source.
 - Hourly-resolution data must be consistent with the official daily totals.
 - We proposed three methods to generate hourly data under this daily-total constraint: **scaling**nnnnnnn, and **Kalman filtering**.
