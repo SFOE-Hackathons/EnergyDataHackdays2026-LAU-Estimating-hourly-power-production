@@ -29,3 +29,13 @@ https://arxiv.org/pdf/1710.04055
 
 #### Simple scaling
 Distributes daily totals to hourly values proportionally using a known hourly profile. Each hour gets a share of the daily total based on the indicator's relative weight within that day.
+
+
+
+### High level conclusions for teh CHALLENGE:
+- Combining complementary datasets allowed us to extract information unavailable from any single source.
+- Hourly-resolution data must be consistent with the official daily totals.
+- We proposed three methods to generate hourly data under this daily-total constraint: **scaling**nnnnnnn, and **Kalman filtering**.
+- The hourly data produced by all three methods matched the daily totals and gave plausible, reproducible results.
+- Since all three methods delivered similar results, we recommend using the simplest approach: simple scaling.
+- Photovoltaics showed the strongest intra-day variation, so preserving the hourly shape is essential. The hourly shape depends on weather factors: clouds, fog etc. 
